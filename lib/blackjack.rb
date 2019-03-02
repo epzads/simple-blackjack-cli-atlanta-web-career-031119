@@ -82,13 +82,13 @@ def runner
 cardtotal = 30 
 #while cardtotal < 21
 
-while cardtotal <= 21
+#while cardtotal <= 21
 welcome()
 initial_round()
 hit?(cardtotal)
 display_card_total(cardtotal)
 cardtotal = display_card_total()
-end 
+#end 
 end_game(cardtotal)
 
 
