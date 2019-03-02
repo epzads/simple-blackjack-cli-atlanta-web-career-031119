@@ -79,7 +79,7 @@ end
 
 def runner
   # code runner here
-cardtotal = 1 
+cardtotal = 30 
 #while cardtotal < 21
 
 while cardtotal <= 21
